@@ -1,0 +1,29 @@
+# OS and editor files
+.DS_Store
+.vscode/
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Build and test outputs
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Data and model artifacts (large/non-source)
+data/
+content/
+*.zip
+*.zip.1
+*.zip.2
+*.RDS
+
+# Office/Numbers files
+*.numbers

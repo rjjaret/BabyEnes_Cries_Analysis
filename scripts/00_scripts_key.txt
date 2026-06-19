@@ -1,0 +1,40 @@
+KEY to R scripts for data analysis
+
+ac~age.R 
+    Model the effects of age on acoustics
+
+ac~cause.R
+    Acoustic differences between crying based on what caused it
+
+ac~pairs.R
+    Pair plots - correlations between acoustic characteristics per baby across ages (eg some babies consistenty have high pitch relative to their age peers)
+
+ac~sex.R
+    Model the effects of age on acoustics
+
+cause~ac.R
+    Random Forest models for predicting the cause of crying from acoustics
+
+descriptives_sumtab.R
+    Summary of the dataset
+
+indivDif.R
+    Individual recognition with Random Forest models
+
+preps.R
+    Preparation, segmentation, acoustic analysis
+
+umap_helperFun.R
+    Helper functions for UMAP, especially for computing a distance matrix based on DTW of frame-by-frame features, running in parallel on multiple cores
+
+umap_per_age.R
+    A separate distance matrix for each age group
+
+umap_per_cause.R
+    A separate distance matrix for each cause of crying
+
+zz_formatting.R
+    Variable names for plotting, helper functions
+
+playbacks.R
+    Analysis of the playbacks results

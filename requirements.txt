@@ -1,0 +1,10 @@
+# Project requirements
+seaborn
+torch
+torchaudio
+torchvision
+numpy
+librosa
+matplotlib
+scikit-learn
+os
