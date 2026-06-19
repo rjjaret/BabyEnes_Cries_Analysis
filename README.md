@@ -1,3 +1,5 @@
+# Capstone project from MITxPro - Deep Learning: Mastering Neural Networks.
+# Presentation available in repository.
 # BabyEnes
 
 Baby cry analysis and deep learning experiments.
